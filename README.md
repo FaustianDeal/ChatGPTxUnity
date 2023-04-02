@@ -4,7 +4,7 @@ This is a Unity project that uses ChatGPT, a large language model trained by Ope
 
 ## Installation
 
-To use this project, you will need to have Unity installed on your computer. You can download Unity from the [official website](https://unity.com/).
+To use this project, you will need to have Unity (at least 2022.2.12f1) installed on your computer. You can download Unity from the [official website](https://unity.com/).
 
 Once you have Unity installed, you can clone this repository or download the ZIP file and extract it to a folder of your choice.
 
